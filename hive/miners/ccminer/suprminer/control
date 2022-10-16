@@ -1,8 +1,0 @@
-Package: hive-miners-ccminer-suprminer
-Version: 0.6-02
-Section: base
-Priority: optional
-Architecture: all
-Depends: hive-miners-ccminer-suprminer-1.6
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner

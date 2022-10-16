@@ -1,8 +1,0 @@
-Package: hive-miners-ccminer-tpruvot
-Version: 0.6-03
-Section: base
-Priority: optional
-Architecture: all
-Depends: hive-miners-ccminer-tpruvot-2.3.1
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - ccminer-tpruvot
