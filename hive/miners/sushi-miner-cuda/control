@@ -1,8 +1,0 @@
-Package: hive-miners-sushi-miner-cuda
-Version: 0.6-03
-Section: base
-Priority: optional
-Architecture: all
-Depends: hive-miners-sushi-miner-cuda-2.1.1
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - Sushi Miner CUDA
