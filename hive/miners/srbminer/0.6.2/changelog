@@ -1,4 +1,0 @@
-SRBMiner-Multi v0.6.2
-* added algorithm 'circcash' (Circcash) for CPU mining, fee 0.85%
-* added algorithm 'phi5' (Combode) for CPU mining, fee 0.85%
-
