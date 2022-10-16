@@ -1,8 +1,0 @@
-Package: hive-miners-gringoldminer
-Version: 0.6-09
-Section: base
-Priority: optional
-Architecture: all
-Depends: hive-lib-dotnet
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - GrinGoldMiner
