@@ -1,8 +1,0 @@
-Package: hive-miners-xmrig-new-randomsfx
-Version: 0.6-02
-Section: base
-Priority: optional
-Architecture: all
-Depends: hive-miners-xmrig-new-randomsfx-5.4.0
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - XMRig-RandomSFX for SFX/Safex Cash
