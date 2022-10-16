@@ -1,7 +1,0 @@
-Package: hive-miners-kbminer-1.2.2-rocm
-Version: 0.6-02
-Section: base
-Priority: optional
-Architecture: all
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - KBminer v1.2.2 AMD ROCm build
