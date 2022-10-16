@@ -1,3 +1,0 @@
-T-Rex 0.19.0
-* added octopus algorithm with devfee 2%
-* reducing RAM footprint for non-ProgPoW based algorithms

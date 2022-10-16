@@ -1,7 +1,0 @@
-Package: hive-miners-t-rex
-Version: 0.6-59
-Section: base
-Priority: optional
-Architecture: all
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - T-Rex miner
