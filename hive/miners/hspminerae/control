@@ -1,8 +1,0 @@
-Package: hive-miners-hspminerae
-Version: 0.6-01
-Section: base
-Priority: optional
-Architecture: all
-Depends: hive-miners-hspminerae-2.2.4
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - HSPMinerAE
