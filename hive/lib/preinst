@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-rm /hive/lib/* > /dev/null 2>&1
-
-exit 0
-
