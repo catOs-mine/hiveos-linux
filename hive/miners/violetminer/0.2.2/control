@@ -1,7 +1,0 @@
-Package: hive-miners-violetminer-0.2.2
-Version: 0.6-02
-Section: base
-Priority: optional
-Architecture: all
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - violetminer v0.2.2
