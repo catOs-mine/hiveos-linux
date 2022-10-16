@@ -1,8 +1,0 @@
-Package: hive-miners-eggminergpu
-Version: 0.6-05
-Section: base
-Priority: optional
-Architecture: all
-Depends: hive-miners-eggminergpu-4.0.200
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - EggMinerGpu v4.0.200
