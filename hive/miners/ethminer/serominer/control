@@ -1,8 +1,0 @@
-Package: hive-miners-ethminer-serominer
-Version: 0.6-02
-Section: base
-Priority: optional
-Architecture: all
-Depends: hive-miners-ethminer-serominer-0.3.0-cuda100
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - SeroMiner (Ethminer fork)
