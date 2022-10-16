@@ -1,8 +1,0 @@
-Package: hive-miners-cortex-miner
-Version: 0.6-02
-Section: base
-Priority: optional
-Architecture: all
-Depends: hive-miners-cortex-miner-1.0.0
-Maintainer: Bee <bee@hiveos.farm>
-Description: Hive miner - cortex-miner
